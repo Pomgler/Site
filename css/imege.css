@@ -1,0 +1,39 @@
+ body{
+    background-image:url(https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1);
+    background-size: 250px;
+    background-repeat: no-repeat ;
+    background-position:100% 100% ;
+    background-attachment: fixed;
+ }
+ p {
+    font-size: 1in;
+    color:blueviolet;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQqD6Hz1oimAv4JonTbO_j9zVA6e9p7HmfQ&usqp=CAU);
+    background-size: cover;
+ }
+ .dgimage{
+    width: 300px;
+    height: 500px;
+    background-color: blueviolet;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjl584R1Uupfoo58b5Z-MF1-cQOQ5B6B1eJA&usqp=CAU);
+    background-size:cover ;
+    border-radius: 30% 40%;
+    margin-left: 50px;
+    border: ridge 10px blue;
+ }
+ .img1{
+    width: 500px;
+    height:  400px;
+    border-radius: 20%;
+    box-shadow: 20px -20px 50px darkcyan;
+    border: solid 5px green;
+    border-image:  linear-gradient(#f6b73c, #4d9f0c) 30;
+ }
+ .bggif{
+    width: 400px;
+    height: 350px;
+    background-image:url(https://www.kizoa.com/img/e8nZC.gif ), linear-gradient( rgb(0,0,0), rgb(255,0,0));
+    background-repeat: no-repeat;
+    background-position: 50% 50%; 
+    
+} 
